@@ -1,1 +1,1 @@
-# assignment_nordea
+# assignment
